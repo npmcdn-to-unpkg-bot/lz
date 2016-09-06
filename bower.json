@@ -1,0 +1,29 @@
+{
+  "name": "liptovzije",
+  "authors": [
+    "Ján Húsenica <jan.husenica@artin.cz>"
+  ],
+  "description": "Koniec nudy na liptove",
+  "main": "",
+  "keywords": [
+    "liptov",
+    "zije"
+  ],
+  "license": "MIT",
+  "homepage": "www.liptovzije.sk",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.8",
+    "angular-resource": "^1.5.8",
+    "angular-jwt": "^0.1.3",
+    "a0-angular-storage": "^0.0.15",
+    "angular-ui-router": "^0.3.1"
+  }
+}
