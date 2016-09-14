@@ -20,7 +20,7 @@
         <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.4/angular-resource.js"></script>
         <script src="https://cdn.rawgit.com/auth0/angular-jwt/master/dist/angular-jwt.js"></script>
         <script src="https://cdn.rawgit.com/auth0/angular-storage/master/dist/angular-storage.js"></script>
-        <script src="//npmcdn.com/angular-ui-router/release/angular-ui-router.min.js"></script>
+        <script src="//unpkg.com/angular-ui-router/release/angular-ui-router.min.js"></script>
         <script src="<c:url value='/static/js/LiptovZije.js' />"></script>
         <script src="<c:url value='/static/js/common/Authentication.js' />"></script>
         <script src="<c:url value='/static/js/events/EventsController.js' />"></script>
